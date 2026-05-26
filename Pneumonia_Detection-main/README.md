@@ -125,21 +125,4 @@ See `requirements.txt`, which includes:
 * NumPy
 * Werkzeug
 
----
 
-## 👨‍💻 Authors
-
-* **Bhanu Kiran Kumar Reddy**
-* **Harshitha Gubba**
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🌟 Show Some Love
-
-Star this repo if you found it useful, insightful, or inspiring!
